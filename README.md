@@ -35,9 +35,7 @@ As a Software Engineer, I thrive on unconventional thinking. For every problem, 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
   <!-- WhatsApp -->
-  <a href="https://api.whatsapp.com/send/?phone=905382004466&text&type=phone_number&app_absent=0" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="32" height="32" alt="WhatsApp" />
-  </a>
+  
 </p>
 
 ### Skills
@@ -68,9 +66,7 @@ As a Software Engineer, I thrive on unconventional thinking. For every problem, 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
   <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/reactnative-colored.svg" width="36" height="36" alt="React Native" />
-  </a>
+  
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
@@ -84,21 +80,15 @@ As a Software Engineer, I thrive on unconventional thinking. For every problem, 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
   </a>
   <!-- Kubernetes -->
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
-  </a>
+ 
   <!-- Virtual Machines (VM) -->
-  <a href="https://en.wikipedia.org/wiki/Virtual_machine" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/virtualbox-colored.svg" width="36" height="36" alt="Virtual Machines" />
-  </a>
+  
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   </a>
   <!-- Web Testing -->
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/selenium-colored.svg" width="36" height="36" alt="Web Testing" />
-  </a>
+ 
   <!-- Large Language Models (LLM) -->
   <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="Large Language Models" />
